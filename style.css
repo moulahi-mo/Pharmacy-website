@@ -1,0 +1,28 @@
+html{
+    scroll-behavior: smooth !important;
+}
+
+#footerUpdate{
+    z-index:1;
+    display:block;
+}
+.brand{
+      transition:transform 1s ease-in-out;
+      transform-style: preserve-3d;
+      font-size: 36px !important;
+      opacity:0.9;
+}
+.brand:hover{
+
+    opacity:0.8;
+    
+    color:#5029AA;
+    transform:rotatez(20deg);
+
+
+}
+
+.hero-text p{
+    letter-spacing: 0.05em;
+    font-size: 20px;
+}
