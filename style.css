@@ -26,3 +26,7 @@ html{
     letter-spacing: 0.05em;
     font-size: 20px;
 }
+
+#env{
+    padding-left: 5px;
+}
