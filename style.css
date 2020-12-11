@@ -36,9 +36,14 @@ html{
 }
 
 
-// ! card style
 
 /* .work-list.crisp-works .work-image img {
     max-width: 0px;
    
 } */
+
+@media screen and (max-width:340px){
+    .formContact h6{
+        font-size:1.0em;
+    }
+}
